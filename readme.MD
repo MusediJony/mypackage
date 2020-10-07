@@ -8,4 +8,4 @@ This library was created as an example of how to publish your own python package
 
 ...
 
-# My first even Github commit...courtesy of Explore Data Science Academy
+# My first Github commit...courtesy of Explore Data Science Academy
