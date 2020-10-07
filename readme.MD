@@ -9,10 +9,7 @@ This library was created as an example of how to publish your own python package
 
 ...
 
-My first Github commit...courtesy of Explore Data Science Academy
-
-
-# --- This is my first even GitGub commit as I had just been exposed to it) ---
+# --- This is my first even GitGub commit as I had just been exposed to it courtesy of Explore Data Science Academy(EDSA) 
 
 If you would like to see a more detailed oriented commit where I showcase my experience and what I am able to do, please head over to the Machine learning: Regression/Classification commits
 
